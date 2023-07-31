@@ -8,7 +8,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     /* color: white; */
-    background-color: #f9fffb;
+    background-image: linear-gradient(to bottom, #caf8a6, #fff5dc, transparent );
   }
  /* Add styles for the scroll buttons */
 .scroll-button {
