@@ -7,7 +7,7 @@ export const Testimonial = ({ testimonials }) => {
                 {testimonials.map((item, index) => (
                     <div
                         key={index}
-                        className="flex-shrink-0 w-64 bg-white p-4 rounded-lg shadow-md"
+                        className="flex-shrink-0 w-64 bg-white p-4 rounded-lg shadow-md border"
                     >
                         <div>{item.testimony}</div>
                         <div>{item.name}</div>
