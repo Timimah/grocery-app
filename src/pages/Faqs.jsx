@@ -13,7 +13,7 @@ export const Faqs = () => {
                             Frequently asked Questions
                         </div>
                     </div>
-                    <div className='bg-[#636f3f] mt-0'>
+                    <div className='mt-0'>
                         <div className='py-[6rem] mx-auto w-1/2'>
                             <div className=' text-lg mb-8 text-justify'>
                                 <p className='text-3xl mb-8'>This is a frequently asked question?</p>
