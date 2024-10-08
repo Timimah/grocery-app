@@ -9,52 +9,52 @@ import { Testimonial } from './Testimonial'
 export const Landing = () => {
     const groceries = [
         {
-            imageUrl: '/path/to/image1.jpg',
+            imageUrl: 'https://picsum.photos/id/627/2509/1673',
             name: 'Grocery Item 1',
             items: 10,
         },
         {
-            imageUrl: '/path/to/image2.jpg',
+            imageUrl: 'https://picsum.photos/id/999/4000/2667',
             name: 'Grocery Item 2',
             items: 5,
         },
         {
-            imageUrl: '/path/to/image1.jpg',
+            imageUrl: 'https://picsum.photos/id/627/2509/1673',
             name: 'Grocery Item 1',
             items: 10,
         },
         {
-            imageUrl: '/path/to/image2.jpg',
+            imageUrl: 'https://picsum.photos/id/999/4000/2667',
             name: 'Grocery Item 2',
             items: 5,
         },
         {
-            imageUrl: '/path/to/image1.jpg',
+            imageUrl: 'https://picsum.photos/id/627/2509/1673',
             name: 'Grocery Item 1',
             items: 10,
         },
         {
-            imageUrl: '/path/to/image2.jpg',
+            imageUrl: 'https://picsum.photos/id/999/4000/2667',
             name: 'Grocery Item 2',
             items: 5,
         },
         {
-            imageUrl: '/path/to/image1.jpg',
+            imageUrl: 'https://picsum.photos/id/627/2509/1673',
             name: 'Grocery Item 1',
             items: 10,
         },
         {
-            imageUrl: '/path/to/image2.jpg',
+            imageUrl: 'https://picsum.photos/id/999/4000/2667',
             name: 'Grocery Item 2',
             items: 5,
         },
         {
-            imageUrl: '/path/to/image1.jpg',
+            imageUrl: 'https://picsum.photos/id/627/2509/1673',
             name: 'Grocery Item 1',
             items: 10,
         },
         {
-            imageUrl: '/path/to/image2.jpg',
+            imageUrl: 'https://picsum.photos/id/999/4000/2667',
             name: 'Grocery Item 2',
             items: 5,
         },// Add more grocery items here...

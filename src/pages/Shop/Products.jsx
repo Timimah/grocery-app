@@ -1,6 +1,6 @@
 // import categoryData from './categoryData'
 import { ProductCard } from './ProductCard'
-import pepper from '../../images/bunchofgroceries.webp'
+import pepper from 'https://picsum.photos/id/999/4000/2667'
 
 
 export const Products = ({ productName }) => {
