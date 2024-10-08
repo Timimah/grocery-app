@@ -7,7 +7,7 @@ export const DisplayCard = ({ groceries }) => {
         {groceries.map((item, index) => (
           <div
             key={index}
-            className="flex-shrink-0 w-64 p-4 rounded-lg shadow-md border bg-[#fff5dc]"
+            className="flex-shrink-0 w-64 bg-white p-4 rounded-lg shadow-md border"
           >
             <img
               src={item.imageUrl}
